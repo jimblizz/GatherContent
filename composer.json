@@ -1,7 +1,7 @@
 {
     "name": "jimblizz/gathercontent",
     "type": "symfony-bundle",
-    "homepage": "https://github.com/jimblizz/GatherContent",
+    "homepage": "https://github.com/jimblizz/gathercontent",
     "authors": [
         {
             "name": "James Blizzard",
