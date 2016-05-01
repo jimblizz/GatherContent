@@ -1,0 +1,14 @@
+{
+    "name": "jimblizz/gathercontent",
+    "type": "symfony-bundle",
+    "homepage": "https://github.com/jimblizz/GatherContent",
+    "authors": [
+        {
+            "name": "James Blizzard",
+            "email": "jim@acidhl.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.8"
+    }
+}
